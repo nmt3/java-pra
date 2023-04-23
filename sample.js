@@ -1,5 +1,5 @@
 // letによる宣言
-const nickname = "taro"
+let nickname = "taro"
 console.log(nickname)
-const nickname = "ichiro"
+let nickname = "ichiro"
 console.log(nickname)
